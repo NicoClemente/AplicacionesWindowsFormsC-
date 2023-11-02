@@ -1,0 +1,22 @@
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.exe.config
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.exe
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.pdb
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.AssemblyReference.cache
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.SuggestedBindingRedirects.cache
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.FColores.resources
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.Properties.Resources.resources
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.GenerateResource.cache
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.CoreCompileInputs.cache
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.exe
+D:\tarea\uni\proyectos\laboratorio\proyecto completo formulario y botones\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.exe.config
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\bin\Debug\tp_formulario_botones_3.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.FColores.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 3\tp_formulario_botones_3\tp_formulario_botones_3\obj\Debug\tp_formulario_botones_3.pdb

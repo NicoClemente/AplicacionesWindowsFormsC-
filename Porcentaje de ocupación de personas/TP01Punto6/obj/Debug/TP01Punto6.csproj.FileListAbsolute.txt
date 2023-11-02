@@ -1,0 +1,22 @@
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.exe.config
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.exe
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.pdb
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.exe
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.pdb
+C:\Users\nicoc\OneDrive\universidad TUP\Laboratorio de computación\Proyectos\TP01Variablesysecuencia\1\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.Porcentajeocupacion.resources
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.exe.config
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.exe
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\bin\Debug\TP01Punto6.pdb
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.Porcentajeocupacion.resources
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.exe
+C:\Users\nicoc\OneDrive\Desktop\TP01Variablesysecuencia\TP01Punto6\TP01Punto6\obj\Debug\TP01Punto6.pdb

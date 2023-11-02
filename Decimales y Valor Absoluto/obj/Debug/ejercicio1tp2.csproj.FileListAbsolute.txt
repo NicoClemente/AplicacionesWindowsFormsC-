@@ -1,0 +1,33 @@
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\bin\Debug\ejercicio1tp2.exe.config
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\bin\Debug\ejercicio1tp2.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\bin\Debug\ejercicio1tp2.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.AssemblyReference.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.FPrincipal.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.Properties.Resources.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.GenerateResource.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.CoreCompileInputs.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\ejercicio1tp2\obj\Debug\ejercicio1tp2.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\bin\Debug\ejercicio1tp2.exe.config
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\bin\Debug\ejercicio1tp2.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\bin\Debug\ejercicio1tp2.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.AssemblyReference.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.FPrincipal.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.Properties.Resources.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.GenerateResource.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.csproj.CoreCompileInputs.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\ejercicio1tp2\obj\Debug\ejercicio1tp2.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\bin\Debug\ejercicio1tp2.exe.config
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\bin\Debug\ejercicio1tp2.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\bin\Debug\ejercicio1tp2.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.FPrincipal.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 1\obj\Debug\ejercicio1tp2.pdb

@@ -1,0 +1,33 @@
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\bin\Debug\movedizo.exe.config
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\bin\Debug\movedizo.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\bin\Debug\movedizo.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.csproj.AssemblyReference.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.csproj.SuggestedBindingRedirects.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.FMovedizo.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.Properties.Resources.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.csproj.GenerateResource.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.csproj.CoreCompileInputs.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\movedizo\obj\Debug\movedizo.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\bin\Debug\movedizo.exe.config
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\bin\Debug\movedizo.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\bin\Debug\movedizo.pdb
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.csproj.AssemblyReference.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.csproj.SuggestedBindingRedirects.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.FMovedizo.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.Properties.Resources.resources
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.csproj.GenerateResource.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.csproj.CoreCompileInputs.cache
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.exe
+C:\Users\proto\Documents\Laboratorio y Computacion\trabajo practico 2\movedizo\obj\Debug\movedizo.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\bin\Debug\movedizo.exe.config
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\bin\Debug\movedizo.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\bin\Debug\movedizo.pdb
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.FMovedizo.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.exe
+C:\Users\nicoc\OneDrive\Desktop\Ejercicio 2\obj\Debug\movedizo.pdb

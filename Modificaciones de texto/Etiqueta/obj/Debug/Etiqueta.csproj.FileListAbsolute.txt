@@ -1,0 +1,55 @@
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Form1.resources
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\rod\Desktop\Proyectos C#\Laboratorio de computación\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Form1.resources
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\yo-go\OneDrive\Escritorio\Trabajo Practico Laboratorio 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Form1.resources
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\rod\Desktop\Proyectos C# C++\Laboratorio de computación\Trabajo practico numero 3\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Form1.resources
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\nicoc\Downloads\teoria laboratorio\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe.config
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.AssemblyReference.cache
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Form1.resources
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.Properties.Resources.resources
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.GenerateResource.cache
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.csproj.CoreCompileInputs.cache
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.exe
+C:\Users\nicoc\OneDrive\Desktop\TPN3Ejercicio2\Etiqueta\Etiqueta\obj\Debug\Etiqueta.pdb
